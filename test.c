@@ -3,5 +3,4 @@
 void main(void)
 {
 	printf("Second");
-	sds
 }
